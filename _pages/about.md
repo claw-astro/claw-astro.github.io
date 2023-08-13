@@ -15,9 +15,9 @@ I recently completed my PhD in astronomy and astrophysics at Harvard University 
 Some of my research highlights include:
 
 <ul>
-  <li>Identified several chemical signatures of recently-confirmed giant protoplanet in the HD 169142 disk, including the first detection of SiS in a planet-forming disk (see ALMA press release <a href="https://www.almaobservatory.org/en/press-releases/a-surprise-chemical-find-by-alma-may-help-detect-and-confirm-protoplanets/" style="text-decoration: none">here</a>). </li>
+  <li>Identified several chemical signatures of a giant protoplanet in the HD 169142 disk, including the 1st detection of SiS in a planet-forming disk (see ALMA press release <a href="https://www.almaobservatory.org/en/press-releases/a-surprise-chemical-find-by-alma-may-help-detect-and-confirm-protoplanets/" style="text-decoration: none">here</a>). </li>
   <li>Mapped the vertical gas structure of CO isotopologues in a large sample of disks and showed that <sup>12</sup>CO heights vary substantially among disks (z/r = 0.1 to nearly ~0.5) </li> 
-  <li>Served as a core team member of the <a href="http://alma-maps.info/" style="text-decoration: none">MAPS ALMA Large Program</a> and led two papers on the radial (MAPS III) and vertical (MAPS IV) chemical structure of protoplanetary disks at 10 au scales</li>    
+  <li>Served as a core team member of the <a href="http://alma-maps.info/" style="text-decoration: none">MAPS ALMA Large Program</a> and led two papers on the radial (MAPS III) and vertical (MAPS IV) chemical structure of protoplanetary disks</li>    
   <li>Mapped complex organic molecules in the massive star-forming region G10.6-0.4 at subarcsecond resolution</li>
   <li>Created a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it <a href="http://www.physics.purdue.edu/kaboom/n132d-anim.mp4" style="text-decoration: none">here</a>, or in a VR environment <a href="https://aas237-aas.ipostersessions.com/Default.aspx?s=AE-C0-00-48-D1-0F-E4-BE-FD-08-90-89-FD-CB-AC-DC" style="text-decoration: none">here</a>)</li>
 </ul> 
