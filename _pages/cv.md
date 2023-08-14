@@ -43,6 +43,7 @@ Selected Publications
 First coauthor publications and those with significant contributions are shown below. A full listing of my publications (50) can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <ol>
+    <li><b>Law, C. J.</b>, Booth, A. S., Öberg, K. I., et al. 2023. SO and SiS Emission Tracing an Embedded Planet and Compact 12CO and 13CO Counterparts in the HD 169142 Disk, ApJL, 952, L19</li>
     <li><b>Law, C. J.</b>, Teague, R., Öberg, K. I., et al. 2022. Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission, ApJ, 948, 60</li>
     <li>Muñoz-Romero, C. E., Öberg, K. I., <b>Law, C. J.</b>, et al., 2022. Cold Deuterium Fractionation in the Nearest Planet-Forming Disk, ApJ, 943, 35</li>
     <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, 932, 114</li>
