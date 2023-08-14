@@ -25,7 +25,7 @@ Author of 50 publications (refereed or under review), including 12 as first auth
 
 <b>Second or Third Author</b>
 <ol>
-    <li>Booth, A. S., <b>Law, C. J.</b>, Temmink, M., et al., 2023. Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD 169142 disk, A&A, subm.</li>
+    <li>Booth, A. S., <b>Law, C. J.</b>, Temmink, M., et al., 2023. Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD 169142 disk, A&A, in press</li>
   <li>Sturm, J. A., McClure M. K., <b>Law, C. J.</b>, et al., 2023. Modeling the edge-on HH 48 NE protoplanetary disk I. Geometry and stellar parameters, A&A, in press</li>
   <li>Muñoz-Romero, C. E., Öberg, K. I., <b>Law, C. J.</b>, et al., 2022. Cold Deuterium Fractionation in the Nearest Planet-Forming Disk, ApJ, 943, 35</li>
   <li>Teague, R., <b>Law, C. J.</b>, Huang, J., et al., 2021. disksurf: Extracting the 3D Structure of Protoplanetary Disks, JOSS, 6, 67</li>
