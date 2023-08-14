@@ -15,7 +15,7 @@ A full PDF version can be found <a href="https://claw-astro.github.io/files/Law_
 Professional Appointments
 ======
 * NASA Hubble Fellowship Program (NHFP) Sagan Fellow, University of Virginia, Department of Astronomy, Sept 2023 [expected]
-* Postdoctoral Researcher, Center for Astrophysics &#124; Harvard & Smithsonian, June 2023 - Present
+* Postdoctoral Researcher, Center for Astrophysics &#124; Harvard & Smithsonian, June 2023 - July 2023
 
 Education
 ======
@@ -40,23 +40,21 @@ Selected Honors and Awards
 
 Selected Publications
 ======
-First coauthor publications and those with significant contributions are shown below. A full listing of my publications (45) can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+First coauthor publications and those with significant contributions are shown below. A full listing of my publications (50) can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <ol>
     <li><b>Law, C. J.</b>, Teague, R., Öberg, K. I., et al. 2022. Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission, ApJ, 948, 60</li>
     <li>Muñoz-Romero, C. E., Öberg, K. I., <b>Law, C. J.</b>, et al., 2022. Cold Deuterium Fractionation in the Nearest Planet-Forming Disk, ApJ, 943, 35</li>
     <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, 932, 114</li>
-  <li>Teague, R., <b>Law, C. J.</b>, Huang, J., et al., 2021. disksurf: Extracting the 3D Structure of Protoplanetary Disks, JOSS, 6, 67</li>
+   <li>Teague, R., <b>Law, C. J.</b>, Huang, J., et al., 2021. disksurf: Extracting the 3D Structure of Protoplanetary Disks, JOSS, 6, 67</li>
   <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C<sub>2</sub>H, and H<sub>2</sub>CO, ApJS, 257, 6</li>
    <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, 257, 5</li>
-  <li><b>Law, C. J.</b>, Loomis, R. A., Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, 257, 3</li>
-  <li><b>Law, C. J.</b>, Teague, R., Loomis, R. A., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, 257, 4</li>
-  <li><b>Law, C. J.</b>, Zhang, Q., Öberg, K. I., et al., 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
-  <li><b>Law, C. J.</b>, Milisavljevic, D., Patnaude, D. J., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
-  <li><b>Law, C. J.</b>, Zhang, Q., Ricci, L., et al., 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
-  <li><b>Law, C. J.</b>, Öberg, K. I., Bergner, et al., D. 2018, Carbon Chain Molecules Toward Embedded Low-Mass Protostars, ApJ, 863, 88</li>
-  <li><b>Law, C. J.</b>, Ricci, L., Andrews, S. M., et al., 2017, An SMA Continuum Survey of Circumstellar Disks in the Serpens Star-Forming Region, AJ, 154, 255</li>
-  <li><b>Law, C. J.</b>, Milisavljevic, D., Crabtree, K. N., et al. (+9 coauthors). 2017, TRES Survey of Variable Diffuse Interstellar Bands, MNRAS, 470, 2835</li>
+   <li><b>Law, C. J.</b>, Loomis, R. A., Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, 257, 3</li>
+   <li><b>Law, C. J.</b>, Teague, R., Loomis, R. A., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, 257, 4</li>
+   <li><b>Law, C. J.</b>, Zhang, Q., Öberg, K. I., et al., 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
+   <li><b>Law, C. J.</b>, Milisavljevic, D., Patnaude, D. J., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
+   <li><b>Law, C. J.</b>, Zhang, Q., Ricci, L., et al., 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
+   <li><b>Law, C. J.</b>, Öberg, K. I., Bergner, et al., D. 2018, Carbon Chain Molecules Toward Embedded Low-Mass Protostars, ApJ, 863, 88</li>
 </ol>    
     
 
@@ -66,6 +64,7 @@ First coauthor publications and those with significant contributions are shown b
   
 Selected Talks
 ======
+* Contributed, Kavli-IAU Astrochemistry Symposium, Traverse City, MI, July 2023
 * Contributed, Planet and Binary Formation in GI Discs, Leicester, UK, September 2022
 * Contributed, Exoplanets IV, May 2022
 * <i>Public Talk</i>, Atwood Museum, Cape Cod, July 2022
@@ -86,9 +85,9 @@ Selected Talks
   
 Teaching
 ======
-* Instructor, Introduction to Scientific Programming in Python (CSCI P-14320). Harvard Summer School, Pre-College Program. Summer 2022.
+* Instructor, Introduction to Scientific Programming in Python (CSCI P-14320). Harvard Summer School, Pre-College Program. Summer 2022,2 023.
 * Co-instructor, Introduction to Scientific Programming in Python (CSCI P-14320). Harvard Summer School, Pre-College Program. Summer 2021.
-* Instructor, Scientific Computing with SciPy, Python Workshop. SAO Latino Initiative Program. Summer 2021, 2022.
+* Instructor, Scientific Computing with SciPy, Python Workshop. SAO Latino Initiative Program. Summer 2021, 2022, 2023.
 * TA, Interstellar Medium and Star Formation (AY203). Harvard University. Spring 2021.
 * TA, Introduction to Scientific Programming in Python (CSCI P-14320). Harvard Summer School, Pre-College Program. Summer 2019, 2020.
 * TA, Stellar and Planetary Astronomy (AY16). Harvard University. Spring 2020.
@@ -100,16 +99,17 @@ Teaching
   
 Service and Professional Activities
 ======
-* Referee: A&A, A&A Letters, ApJ, ApJS (2018 - Present)
-* Co-Organizer, CfA Star Formation Journal Club (2022 - 2023)
-* Member, CfA APS-IDEA Accessibility Subcommittee (2021 - Present)
-* Peer Mentor, Harvard Astronomy Department (2021 - Present)
+* Referee, A&A, A&A Letters, ApJ, ApJS (2018 - Present)
+* Mentor, Astronomy Mentoring Program for Upcoming Postdocs (AMP-UP) (2023 - Present)
 * Member, American Astronomical Society (2017 - Present)
+* Co-Organizer, CfA Star Formation Journal Club (2022 - 2023)
+* Member, CfA APS-IDEA Accessibility Subcommittee (2021 - 2023)
+* Peer Mentor, Harvard Astronomy Department (2021 - 2022)
 
 Outreach
 ======
 * Subject Matter Expert, NASA Community College Network (2022 - Present)
 * Subject Matter Expert, NASA JWST Community Events (2021 - Present)
-* Contributing Author, <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Astrobites</a> (2018 - 2020)
 * <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration:none">AAS Astronomy Ambassador</a> (2019 - Present)
-* Volunteer, CfA Observatory Nights (2017 - Present)
+* Contributing Author, <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Astrobites</a> (2018 - 2020)
+* Volunteer, CfA Observatory Nights (2017 - 2020)
