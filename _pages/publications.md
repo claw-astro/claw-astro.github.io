@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 50 publications (refereed or under review), including 12 as first author and 6 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 52 publications (refereed or under review), including 12 as first author and 6 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
@@ -35,9 +35,11 @@ Author of 50 publications (refereed or under review), including 12 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
+    <li>Lewis, B. L.,, et al. (incl. <b>Law, C. J.</b>), 2023. Exploring the Effects of Astrobites Lesson Plans on Undergraduate Astronomy Students. J. Sci. Educ. Technol., subm.</li>
+    <li>Muñoz-Romero, C. E., et al. (incl. <b>Law, C. J.</b>), 2023. JWST-MIRI Unveils Reduced and Atypically Variable Water Vapor in the AS 209 Disk. ApJ, subm.</li>
   <li>Sano, H., et al. (incl. <b>Law, C. J.</b>), 2023. ALMA Observations of Supernova Remnant N49 in the Large Magellanic Cloud. II. Non-LTE Analysis of Shock-Heated Molecular Clouds. ApJ, subm.</li>
-  <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. A JWST inventory of protoplanetary disk ices: The edge-on protoplanetary disk HH 48 NE, seen with the Ice Age ERS program. A&A, subm.</li>
-  <li>Waggoner, A. R., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Constraining Serendipitous Time Variability in Protoplanetary Disk Molecular Ion Emission. ApJ, subm.</li>
+  <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. A JWST inventory of protoplanetary disk ices: The edge-on protoplanetary disk HH 48 NE, seen with the Ice Age ERS program. A&A, in press</li>
+  <li>Waggoner, A. R., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Constraining Serendipitous Time Variability in Protoplanetary Disk Molecular Ion Emission. ApJ, in press</li>
   <li>Portilla-Revelo, B., et al. (incl. <b>Law, C. J.</b>), 2023. Constraining the gas distribution and planet masses in the PDS 70 disk using thermochemical models. A&A, in press</li>
   <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. Modeling the edge-on HH 48 NE protoplanetary disk II. Ices and silicates. A&A, in press</li>
   <li>Galloway-Sprietsma, M., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Complex Kinematics in the AS 209 Disk Induced by a Forming Planet and Disk Winds. ApJ, in press</li>
