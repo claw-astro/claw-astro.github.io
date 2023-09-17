@@ -83,11 +83,11 @@ author:
   name             : "Charles J. Law"
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher in Astronomy"
-  location         : "Center for Astrophysics<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Harvard & Smithsonian"
-  employer         : "Cambridge, MA, USA"
+  location         : "University of Virginia"
+  employer         : "Charlottesville, VA, USA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=GqG5GiIAAAAJ"#"http://yourfullgooglescholarurl.com"
-  email            : "charles.law@cfa.harvard.edu"
+  email            : "cjl8rd@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
