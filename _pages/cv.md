@@ -40,7 +40,7 @@ Selected Honors and Awards
 
 Selected Publications
 ======
-First coauthor publications and those with significant contributions are shown below. A full listing of my publications (50) can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+First coauthor publications and those with significant contributions are shown below. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <ol>
     <li><b>Law, C. J.</b>, Booth, A. S., Öberg, K. I., et al. 2023. SO and SiS Emission Tracing an Embedded Planet and Compact 12CO and 13CO Counterparts in the HD 169142 Disk, ApJL, 952, L19</li>
