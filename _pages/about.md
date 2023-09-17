@@ -31,11 +31,11 @@ charles.law@cfa.harvard.edu
 <br>
 +1 (724) 493-0763
 <br> <br>
-Center for Astrophysics | Harvard & Smithsonian
+Department of Astronomy, University of Virginia
 <br>
-60 Garden Street, MS-10
+530 McCormick Road, P.O. Box 400325
 <br>
-Cambridge, MA 02138
+Charlottesville, VA 22904
 <br>
 United States of America
 
