@@ -19,9 +19,9 @@ Professional Appointments
 
 Education
 ======
-* B.A. in Physics and Astrophysics, Harvard University, 2017<br>        <I>Advisor: Karin I. Öberg</I><br><I>Thesis: Carbon Chain Molecules Toward Embedded Low-Mass Protostars</I> 
-* M.A. in Astronomy and Astrophysics, Harvard University, 2021
 * Ph.D. in Astronomy and Astrophysics, Harvard University, 2018 - 2023<br>        <I>Advisors: Karin I. Öberg & Qizhou Zhang</I><br><I>Thesis: Zooming in on the Chemistry of Star and Planet Formation</I> 
+* M.A. in Astronomy and Astrophysics, Harvard University, 2021
+* B.A. in Physics and Astrophysics, Harvard University, 2017<br>        <I>Advisor: Karin I. Öberg</I><br><I>Thesis: Carbon Chain Molecules Toward Embedded Low-Mass Protostars</I> 
 
 
 Selected Honors and Awards
