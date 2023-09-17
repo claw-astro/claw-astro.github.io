@@ -31,7 +31,9 @@ charles.law@cfa.harvard.edu
 <br>
 +1 (724) 493-0763
 <br> <br>
-Department of Astronomy, University of Virginia
+Department of Astronomy
+<br>
+University of Virginia
 <br>
 530 McCormick Road, P.O. Box 400325
 <br>
