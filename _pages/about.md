@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Astronomer at the Center for Astrophysics | Harvard & Smithsonian
+Astronomer at the University of Virginia
 ------
-I recently completed my PhD in astronomy and astrophysics at Harvard University and the Center for Astrophysics | Harvard & Smithsonian, working with <a href="https://pweb.cfa.harvard.edu/people/karin-oberg" style="text-decoration: none">Karin Öberg</a> and <a href="https://pweb.cfa.harvard.edu/people/qizhou-zhang" style="text-decoration: none">Qizhou Zhang</a> and will be joining the University of Virginia as a <a href="https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2023-nhfp-fellows#section-66b98cc2-bcba-4c71-92d0-217e6ef0e32f" style="text-decoration: none">NASA Hubble Fellowship Program Sagan Fellow</a>. My research focuses on the chemistry of star and planet formation. I use high spatial resolution observations from (sub-)millimeter interferometers such as the Atacama Large Millimeter/submillimeter Array (ALMA), Submillimeter Array (SMA), and Very Large Array (VLA) to characterize the chemical environments in which young planets are forming.
+I am a <a href="https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2023-nhfp-fellows#section-66b98cc2-bcba-4c71-92d0-217e6ef0e32f" style="text-decoration: none">NASA Hubble Fellowship Program Sagan Fellow</a> at University of Virginia and a member of the <a href="https://cosmicorigins.space/vico" style="text-decoration: none">Virginia Initiative on Cosmic Origins</a> consortium. Previously, I completed my PhD in astronomy and astrophysics at Harvard University and the Center for Astrophysics | Harvard & Smithsonian, working with <a href="https://pweb.cfa.harvard.edu/people/karin-oberg" style="text-decoration: none">Karin Öberg</a> and <a href="https://pweb.cfa.harvard.edu/people/qizhou-zhang" style="text-decoration: none">Qizhou Zhang</a>. My research focuses on the chemistry of star and planet formation. I use high spatial resolution observations from (sub-)millimeter interferometers such as the Atacama Large Millimeter/submillimeter Array (ALMA), Submillimeter Array (SMA), and Very Large Array (VLA) to characterize the chemical environments in which young planets are forming.
 
 Some of my research highlights include:
 
