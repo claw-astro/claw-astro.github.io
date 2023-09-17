@@ -14,7 +14,7 @@ A full PDF version can be found <a href="https://claw-astro.github.io/files/Law_
 
 Professional Appointments
 ======
-* NASA Hubble Fellowship Program (NHFP) Sagan Fellow, University of Virginia, Department of Astronomy, Sept 2023 [expected]
+* NASA Hubble Fellowship Program (NHFP) Sagan Fellow, University of Virginia, Department of Astronomy, Sept 2023
 * Postdoctoral Researcher, Center for Astrophysics &#124; Harvard & Smithsonian, June 2023 - July 2023
 
 Education
