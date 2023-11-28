@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 52 publications (refereed or under review), including 12 as first author and 6 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 56 publications (refereed or under review), including 13 as first author and 6 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
   <li><b>Law, C. J.</b>, Benisty M., Facchini S., et al. 2023. Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk, ApJ, subm.</li>
+  <li><b>Law, C. J.</b>, Alarcón, F., Cleeves, L. I., et al., 2023. C I Traces the Disk Atmosphere in the IM Lup Protoplanetary Disk, ApJL, in press</li>
   <li><b>Law, C. J.</b>, Booth, A. S., Öberg, K. I., et al. 2023. SO and SiS Emission Tracing an Embedded Planet and Compact 12CO and 13CO Counterparts in the HD 169142 Disk, ApJL, 952, L19</li>
   <li><b>Law, C. J.</b>, Teague, R., Öberg, K. I., et al. 2023. Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission, ApJ, 948, 60</li>
   <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, 932, 114</li>
@@ -25,8 +26,8 @@ Author of 52 publications (refereed or under review), including 12 as first auth
 
 <b>Second or Third Author</b>
 <ol>
-    <li>Booth, A. S., <b>Law, C. J.</b>, Temmink, M., et al., 2023. Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD 169142 disk, A&A, in press</li>
-  <li>Sturm, J. A., McClure M. K., <b>Law, C. J.</b>, et al., 2023. Modeling the edge-on HH 48 NE protoplanetary disk I. Geometry and stellar parameters, A&A, in press</li>
+    <li>Booth, A. S., <b>Law, C. J.</b>, Temmink, M., et al., 2023. Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD 169142 disk, A&A, 678, 146</li>
+  <li>Sturm, J. A., McClure M. K., <b>Law, C. J.</b>, et al., 2023. Modeling the edge-on HH 48 NE protoplanetary disk I. Geometry and stellar parameters, A&A, 677, 17</li>
   <li>Muñoz-Romero, C. E., Öberg, K. I., <b>Law, C. J.</b>, et al., 2022. Cold Deuterium Fractionation in the Nearest Planet-Forming Disk, ApJ, 943, 35</li>
   <li>Teague, R., <b>Law, C. J.</b>, Huang, J., et al., 2021. disksurf: Extracting the 3D Structure of Protoplanetary Disks, JOSS, 6, 67</li>
   <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, 257, 5</li>
@@ -35,14 +36,17 @@ Author of 52 publications (refereed or under review), including 12 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
-    <li>Lewis, B. L.,, et al. (incl. <b>Law, C. J.</b>), 2023. Exploring the Effects of Astrobites Lesson Plans on Undergraduate Astronomy Students. J. Sci. Educ. Technol., subm.</li>
-    <li>Muñoz-Romero, C. E., et al. (incl. <b>Law, C. J.</b>), 2023. JWST-MIRI Unveils Reduced and Atypically Variable Water Vapor in the AS 209 Disk. ApJ, subm.</li>
-  <li>Sano, H., et al. (incl. <b>Law, C. J.</b>), 2023. ALMA Observations of Supernova Remnant N49 in the Large Magellanic Cloud. II. Non-LTE Analysis of Shock-Heated Molecular Clouds. ApJ, subm.</li>
+  <li>Booth, A. S., et al. (incl. <b>Law, C. J.</b>), 2023. An ALMA molecular inventory of warm Herbig Ae disks: II. Abundant complex organics and volatile sulphur in the IRS 48 disk. A&A, subm.</li>
+  <li>Booth, A. S., et al. (incl. <b>Law, C. J.</b>), 2023. An ALMA molecular inventory of warm Herbig Ae disks: I. Molecular rings, asymmetries and complexity in the HD 100546 disk. A&A, subm.</li>
+  <li>Yoshida, T. C., et al. (incl. <b>Law, C. J.</b>), 2023. The First Spatially-resolved Detection of 13CN in a Protoplanetary Disk and Evidence for Complex Carbon Isotope Fractionation. ApJ, subm.</li>
+  <li>Muñoz-Romero, C. E., et al. (incl. <b>Law, C. J.</b>), 2023. JWST-MIRI Unveils Reduced and Atypically Variable Water Vapor in the AS 209 Disk. ApJ, subm.</li>
+  <li>Sano, H., et al. (incl. <b>Law, C. J.</b>), 2023. ALMA Observations of Supernova Remnant N49 in the Large Magellanic Cloud. II. Non-LTE Analysis of Shock-Heated Molecular Clouds. ApJ, 958, 53</li>
+  <li>Lewis, B. L.,, et al. (incl. <b>Law, C. J.</b>), 2023. Exploring the Effects of Astrobites Lesson Plans on Undergraduate Astronomy Students. arXiv:2309.05822</li>
   <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. A JWST inventory of protoplanetary disk ices: The edge-on protoplanetary disk HH 48 NE, seen with the Ice Age ERS program. A&A, in press</li>
-  <li>Waggoner, A. R., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Constraining Serendipitous Time Variability in Protoplanetary Disk Molecular Ion Emission. ApJ, in press</li>
-  <li>Portilla-Revelo, B., et al. (incl. <b>Law, C. J.</b>), 2023. Constraining the gas distribution and planet masses in the PDS 70 disk using thermochemical models. A&A, in press</li>
-  <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. Modeling the edge-on HH 48 NE protoplanetary disk II. Ices and silicates. A&A, in press</li>
-  <li>Galloway-Sprietsma, M., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Complex Kinematics in the AS 209 Disk Induced by a Forming Planet and Disk Winds. ApJ, in press</li>
+  <li>Waggoner, A. R., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Constraining Serendipitous Time Variability in Protoplanetary Disk Molecular Ion Emission. ApJ, 956, 103</li>
+  <li>Portilla-Revelo, B., et al. (incl. <b>Law, C. J.</b>), 2023. Constraining the gas distribution in the PDS 70 disc as a method to assess the effect of planet-disc interactions. A&A, 677, 76</li>
+  <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. Modeling the edge-on HH 48 NE protoplanetary disk II. Ices and silicates. A&A, 677, 18</li>
+  <li>Galloway-Sprietsma, M., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Complex Kinematics in the AS 209 Disk Induced by a Forming Planet and Disk Winds. ApJ, 2023. ApJ, 950, 147</li>
   <li>Pegues, J., et al. (incl. <b>Law, C. J.</b>), 2023. An SMA Survey of Chemistry in Disks around Herbig AeBe Stars. ApJ, 948, 57</li>
   <li>Banovetz, J., et al. (incl. <b>Law, C. J.</b>), 2023. HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age. ApJ, 948, 33</li>
   <li>Calahan, J. K., et al. (incl. <b>Law, C. J.</b>), 2022. UV-driven Chemistry as a Signpost of Late-stage Planet Formation. Nature Astronomy, 7, 49</li>
