@@ -38,12 +38,15 @@ Author of 66 publications (refereed or under review), including 14 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
-  <li>Rampinelli, L.,, et al. (incl. <b>Law, C. J.</b>), 2024. ALMA high resolution observations unveil planet formation shaping molecular emission in the PDS 70 disk. A&A, in press</li>
-  <li>Tanious, M., et al. (incl. <b>Law, C. J.</b>), 2024. Anatomy of the Class I protostar L1489 IRS with NOEMA I. Disk, streamers, outflow(s) and bubbles at 3mm. A&A, in press</li>
+  <li>Keyte, L., et al. (incl. <b>Law, C. J.</b>), 2024. Volatile composition of the planet-hosting disk HD 169142. MNRAS, subm.</li>
+  <li>Yamato, Y., et al. (incl. <b>Law, C. J.</b>), 2024. Detection of Dimethyl Ether in the MWC 480 Protoplanetary Disk. ApJ, in press</li>
+  <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2024. A JWST/MIRI analysis of the ice distribution and PAH emission in the protoplanetary disk HH 48 NE. A&A, in press</li>
+  <li>Rampinelli, L., et al. (incl. <b>Law, C. J.</b>), 2024. ALMA high resolution observations unveil planet formation shaping molecular emission in the PDS 70 disk. A&A, in press</li>
+  <li>Tanious, M., et al. (incl. <b>Law, C. J.</b>), 2024. Anatomy of the Class I protostar L1489 IRS with NOEMA I. Disk, streamers, outflow(s) and bubbles at 3mm. A&A, 687, 92</li>
   <li>Booth, A. S., et al. (incl. <b>Law, C. J.</b>), 2024. An ALMA molecular inventory of warm Herbig Ae disks: II. Abundant complex organics and volatile sulphur in the IRS 48 disk. AJ, 167, 165</li>
   <li>Booth, A. S., et al. (incl. <b>Law, C. J.</b>), 2024. An ALMA molecular inventory of warm Herbig Ae disks: I. Molecular rings, asymmetries and complexity in the HD 100546 disk. AJ, 167, 164</li>
   <li>Yoshida, T. C., et al. (incl. <b>Law, C. J.</b>), 2024. The First Spatially-resolved Detection of 13CN in a Protoplanetary Disk and Evidence for Complex Carbon Isotope Fractionation. ApJ, 966, 63</li>
-  <li>Muñoz-Romero, C. E., et al. (incl. <b>Law, C. J.</b>), 2023. JWST-MIRI Unveils Reduced and Atypically Variable Water Vapor in the AS 209 Disk. ApJ, subm.</li>
+  <li>Muñoz-Romero, C. E., et al. (incl. <b>Law, C. J.</b>), 2024. JWST-MIRI Unveils Reduced and Atypically Variable Water Vapor in the AS 209 Disk. ApJ, 964, 36</li>
   <li>Sano, H., et al. (incl. <b>Law, C. J.</b>), 2023. ALMA Observations of Supernova Remnant N49 in the Large Magellanic Cloud. II. Non-LTE Analysis of Shock-Heated Molecular Clouds. ApJ, 958, 53</li>
   <li>Lewis, B. L.,, et al. (incl. <b>Law, C. J.</b>), 2023. Exploring the Effects of Astrobites Lesson Plans on Undergraduate Astronomy Students. arXiv:2309.05822</li>
   <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. A JWST inventory of protoplanetary disk ices: The edge-on protoplanetary disk HH 48 NE, seen with the Ice Age ERS program. A&A, in press</li>
