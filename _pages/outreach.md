@@ -7,7 +7,7 @@ redirect_from:
   - /outreach.html
 ---
 
-I am deeply involved in promoting science communication and increasing engagement in astronomy and science more broadly for both students and member of the general public. For my efforts, I was recognized as an <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration: none">AAS Astronomy Ambassador</a>, where I received additional training to augment the impact and reach of my outreach efforts. I am currently a member of the <a href="https://aas.org/comms/education-committee" style="text-decoration: none">AAS Education Committeer</a> and serve as the chair of the Subcommittee on Public Outreach, Community Engagement, and Informal Education.
+I am deeply involved in promoting science communication and increasing engagement in astronomy and science more broadly for both students and member of the general public. For my efforts, I was recognized as an <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration: none">AAS Astronomy Ambassador</a>, where I received additional training to augment the impact and reach of my outreach efforts. I am currently a member of the <a href="https://aas.org/comms/education-committee" style="text-decoration: none">AAS Education Committee</a> and serve as the chair of the Subcommittee on Public Outreach, Community Engagement, and Informal Education.
 
 
 <h2>Increasing Access and Promoting Student and Public Engagement</h2>
