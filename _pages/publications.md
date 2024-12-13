@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 66 publications (refereed or under review), including 14 as first author and 7 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 71 publications (refereed or under review), including 15 as first author and 7 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Zhang Q., Frommer A., et al. 2024. A Wideband Chemical Survey of Massive Young Stellar Objects at Subarcsecond Resolution with the Submillimeter Array, subm.</li>
+  <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y, et al. 2024. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk”, subm.</li>
+  <li><b>Law, C. J.</b>, Zhang Q., Frommer A., et al. 2024. A Wideband Chemical Survey of Massive Young Stellar Objects at Subarcsecond Resolution with the Submillimeter Array, in press, arXiv:2411.00941</li>
   <li><b>Law, C. J.</b>, Benisty M., Facchini S., et al. 2024. Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk, ApJ, 964, 190.</li>
   <li><b>Law, C. J.</b>, Alarcón, F., Cleeves, L. I., et al., 2023. C I Traces the Disk Atmosphere in the IM Lup Protoplanetary Disk, ApJL, 959, L27</li>
   <li><b>Law, C. J.</b>, Booth, A. S., Öberg, K. I., et al. 2023. SO and SiS Emission Tracing an Embedded Planet and Compact 12CO and 13CO Counterparts in the HD 169142 Disk, ApJL, 952, L19</li>
@@ -27,7 +28,7 @@ Author of 66 publications (refereed or under review), including 14 as first auth
 
 <b>Second or Third Author</b>
 <ol>
-    <li>Yoshida, T., Nomura, H., <b>Law, C. J.</b>, et al., 2024. Outflow Driven by a Protoplanet Embedded in the TW Hya Disk, ApJL, in press</li>
+    <li>Yoshida, T., Nomura, H., <b>Law, C. J.</b>, et al., 2024. Outflow Driven by a Protoplanet Embedded in the TW Hya Disk, ApJL, 971, L15</li>
     <li>Booth, A. S., <b>Law, C. J.</b>, Temmink, M., et al., 2023. Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD 169142 disk, A&A, 678, 146</li>
   <li>Sturm, J. A., McClure M. K., <b>Law, C. J.</b>, et al., 2023. Modeling the edge-on HH 48 NE protoplanetary disk I. Geometry and stellar parameters, A&A, 677, 17</li>
   <li>Muñoz-Romero, C. E., Öberg, K. I., <b>Law, C. J.</b>, et al., 2022. Cold Deuterium Fractionation in the Nearest Planet-Forming Disk, ApJ, 943, 35</li>
@@ -39,9 +40,9 @@ Author of 66 publications (refereed or under review), including 14 as first auth
 <b>Other Co-Authored Publications</b>
 <ol>
   <li>Keyte, L., et al. (incl. <b>Law, C. J.</b>), 2024. Volatile composition of the planet-hosting disk HD 169142. MNRAS, subm.</li>
-  <li>Yamato, Y., et al. (incl. <b>Law, C. J.</b>), 2024. Detection of Dimethyl Ether in the MWC 480 Protoplanetary Disk. ApJ, in press</li>
-  <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2024. A JWST/MIRI analysis of the ice distribution and PAH emission in the protoplanetary disk HH 48 NE. A&A, in press</li>
-  <li>Rampinelli, L., et al. (incl. <b>Law, C. J.</b>), 2024. ALMA high resolution observations unveil planet formation shaping molecular emission in the PDS 70 disk. A&A, in press</li>
+  <li>Yamato, Y., et al. (incl. <b>Law, C. J.</b>), 2024. Detection of Dimethyl Ether in the MWC 480 Protoplanetary Disk. ApJ, ApJ, 974, 83</li>
+  <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2024. A JWST/MIRI analysis of the ice distribution and PAH emission in the protoplanetary disk HH 48 NE. A&A, A&A, 689, 92</li>
+  <li>Rampinelli, L., et al. (incl. <b>Law, C. J.</b>), 2024. ALMA high resolution observations unveil planet formation shaping molecular emission in the PDS 70 disk. A&A, 689, 65</li>
   <li>Tanious, M., et al. (incl. <b>Law, C. J.</b>), 2024. Anatomy of the Class I protostar L1489 IRS with NOEMA I. Disk, streamers, outflow(s) and bubbles at 3mm. A&A, 687, 92</li>
   <li>Booth, A. S., et al. (incl. <b>Law, C. J.</b>), 2024. An ALMA molecular inventory of warm Herbig Ae disks: II. Abundant complex organics and volatile sulphur in the IRS 48 disk. AJ, 167, 165</li>
   <li>Booth, A. S., et al. (incl. <b>Law, C. J.</b>), 2024. An ALMA molecular inventory of warm Herbig Ae disks: I. Molecular rings, asymmetries and complexity in the HD 100546 disk. AJ, 167, 164</li>
