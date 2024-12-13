@@ -39,7 +39,15 @@ Author of 71 publications (refereed or under review), including 15 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
-  <li>Keyte, L., et al. (incl. <b>Law, C. J.</b>), 2024. Volatile composition of the planet-hosting disk HD 169142. MNRAS, subm.</li>
+  <li>Boyden, R. D., Emig, K. L., Ballering, N. P., <b>Law, C. J.</b>, et al., 2024. Discovery of Radio Recombination Line Emission from Proplyds in the Orion Nebula Cluster, ApJ, subm.</li>
+  <li>Getman, K. V. et al. (incl. <b>Law, C. J.</b>), 2024. Multi-Observatory Study of Young Stellar Energetic Flares (MORYSEF): No Evidence for Abnormally Strong Stellar Magnetic Fields After Powerful X-ray Flares, ApJS, subm.</li>
+  <li>Evans, L., et al. (incl. <b>Law, C. J.</b>), 2024. ALMA reveals thermal and non-thermal desorption of methanol ice in the HD 100546 protoplanetary disk, A&A, subm.</li>
+  <li>Lewis, B. L., et al. (incl. <b>Law, C. J.</b>), 2024. Improving Undergraduate Astronomy Students' Skills with Research Literature via Accessible Summaries: A Case Study with Astrobites-based Lesson Plans, subm.</li>
+  <li>Temmink, M., et al. (incl. <b>Law, C. J.</b>), 2024. Characterising the molecular line emission in the asymmetric Oph-IRS 48 dust trap: Temperatures, timescales, and sub-thermal excitation, A&A, in press</li>
+  <li>Getman, K. V., et al. (incl. <b>Law, C. J.</b>), 2024. Multi-Observatory Research of Young Stellar Energetic Flares (MORYSEF): X-ray Flare Related Phenomena and Multi-epoch Behavior. ApJ, 976, 195</li>
+  <li>Bergner, J. B., et al. (incl. <b>Law, C. J.</b>), 2024. JWST ice band profiles reveal mixed ice compositions in the HH 48 NE disk. ApJ, 975, 166</li>
+  <li>Booth, A. S., et al. (incl. <b>Law, C. J.</b>), 2024. Measuring the 34S and 33S isotopic ratios of volatile sulfur during planet formation. AJ, 975, 72</li>
+  <li>Keyte, L., Kama, M., Booth, A. S., <b>Law, C. J.</b>, & Leemker, M. 2024. Volatile composition of the planet-hosting disk HD 169142. MNRAS, 534, 4</li>
   <li>Yamato, Y., et al. (incl. <b>Law, C. J.</b>), 2024. Detection of Dimethyl Ether in the MWC 480 Protoplanetary Disk. ApJ, ApJ, 974, 83</li>
   <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2024. A JWST/MIRI analysis of the ice distribution and PAH emission in the protoplanetary disk HH 48 NE. A&A, A&A, 689, 92</li>
   <li>Rampinelli, L., et al. (incl. <b>Law, C. J.</b>), 2024. ALMA high resolution observations unveil planet formation shaping molecular emission in the PDS 70 disk. A&A, 689, 65</li>
