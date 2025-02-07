@@ -59,7 +59,6 @@ Author of 73 publications (refereed or under review), including 15 as first auth
   <li>Yoshida, T. C., et al. (incl. <b>Law, C. J.</b>), 2024. The First Spatially-resolved Detection of 13CN in a Protoplanetary Disk and Evidence for Complex Carbon Isotope Fractionation. ApJ, 966, 63</li>
   <li>Muñoz-Romero, C. E., et al. (incl. <b>Law, C. J.</b>), 2024. JWST-MIRI Unveils Reduced and Atypically Variable Water Vapor in the AS 209 Disk. ApJ, 964, 36</li>
   <li>Sano, H., et al. (incl. <b>Law, C. J.</b>), 2023. ALMA Observations of Supernova Remnant N49 in the Large Magellanic Cloud. II. Non-LTE Analysis of Shock-Heated Molecular Clouds. ApJ, 958, 53</li>
-  <li>Lewis, B. L.,, et al. (incl. <b>Law, C. J.</b>), 2023. Exploring the Effects of Astrobites Lesson Plans on Undergraduate Astronomy Students. arXiv:2309.05822</li>
   <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. A JWST inventory of protoplanetary disk ices: The edge-on protoplanetary disk HH 48 NE, seen with the Ice Age ERS program. A&A, in press</li>
   <li>Waggoner, A. R., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Constraining Serendipitous Time Variability in Protoplanetary Disk Molecular Ion Emission. ApJ, 956, 103</li>
   <li>Portilla-Revelo, B., et al. (incl. <b>Law, C. J.</b>), 2023. Constraining the gas distribution in the PDS 70 disc as a method to assess the effect of planet-disc interactions. A&A, 677, 76</li>
