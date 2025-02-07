@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 71 publications (refereed or under review), including 15 as first author and 7 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 73 publications (refereed or under review), including 15 as first author and 7 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y, et al. 2024. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk”, subm.</li>
-  <li><b>Law, C. J.</b>, Zhang Q., Frommer A., et al. 2024. A Wideband Chemical Survey of Massive Young Stellar Objects at Subarcsecond Resolution with the Submillimeter Array, in press, arXiv:2411.00941</li>
+  <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y, et al. 2025. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk”, subm.</li>
+  <li><b>Law, C. J.</b>, Zhang Q., Frommer A., et al. 2025. A Wideband Chemical Survey of Massive Young Stellar Objects at Subarcsecond Resolution with the Submillimeter Array, ApJS, 276, 54</li>
   <li><b>Law, C. J.</b>, Benisty M., Facchini S., et al. 2024. Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk, ApJ, 964, 190.</li>
   <li><b>Law, C. J.</b>, Alarcón, F., Cleeves, L. I., et al., 2023. C I Traces the Disk Atmosphere in the IM Lup Protoplanetary Disk, ApJL, 959, L27</li>
   <li><b>Law, C. J.</b>, Booth, A. S., Öberg, K. I., et al. 2023. SO and SiS Emission Tracing an Embedded Planet and Compact 12CO and 13CO Counterparts in the HD 169142 Disk, ApJL, 952, L19</li>
@@ -39,11 +39,13 @@ Author of 71 publications (refereed or under review), including 15 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
-  <li>Boyden, R. D., Emig, K. L., Ballering, N. P., <b>Law, C. J.</b>, et al., 2024. Discovery of Radio Recombination Line Emission from Proplyds in the Orion Nebula Cluster, ApJ, subm.</li>
-  <li>Getman, K. V. et al. (incl. <b>Law, C. J.</b>), 2024. Multi-Observatory Study of Young Stellar Energetic Flares (MORYSEF): No Evidence for Abnormally Strong Stellar Magnetic Fields After Powerful X-ray Flares, ApJS, subm.</li>
-  <li>Evans, L., et al. (incl. <b>Law, C. J.</b>), 2024. ALMA reveals thermal and non-thermal desorption of methanol ice in the HD 100546 protoplanetary disk, A&A, subm.</li>
+  <li>Armitage, T., et al. (incl. <b>Law, C. J.</b>), 2025. Tracing Pebble Drift History in Two Protoplanetary Disks with CO Enhancement, ApJ, subm.</li>
+  <li>Romero-Mirza, C. E., et al. (incl. <b>Law, C. J.</b>), 2025. Irradiated Chemistry in the GM Aur Transition Disk Revealed by JWST MIRI, ApJ, subm.</li>
+  <li>Boyden, R. D., Emig, K. L., Ballering, N. P., <b>Law, C. J.</b>, et al., 2025. Discovery of Radio Recombination Line Emission from Proplyds in the Orion Nebula Cluster, ApJ, subm.</li>
   <li>Lewis, B. L., et al. (incl. <b>Law, C. J.</b>), 2024. Improving Undergraduate Astronomy Students' Skills with Research Literature via Accessible Summaries: A Case Study with Astrobites-based Lesson Plans, subm.</li>
-  <li>Temmink, M., et al. (incl. <b>Law, C. J.</b>), 2024. Characterising the molecular line emission in the asymmetric Oph-IRS 48 dust trap: Temperatures, timescales, and sub-thermal excitation, A&A, in press</li>
+  <li>Getman, K. V. et al. (incl. <b>Law, C. J.</b>), 2025. Multi-Observatory Study of Young Stellar Energetic Flares (MORYSEF): No Evidence for Abnormally Strong Stellar Magnetic Fields After Powerful X-ray Flares, ApJS, in press</li>
+  <li>Evans, L., et al. (incl. <b>Law, C. J.</b>), 2025. ALMA reveals thermal and non-thermal desorption of methanol ice in the HD 100546 protoplanetary disk, A&A, in press</li>
+  <li>Temmink, M., et al. (incl. <b>Law, C. J.</b>), 2025. Characterising the molecular line emission in the asymmetric Oph-IRS 48 dust trap: Temperatures, timescales, and sub-thermal excitation, A&A, 693, 101</li>
   <li>Getman, K. V., et al. (incl. <b>Law, C. J.</b>), 2024. Multi-Observatory Research of Young Stellar Energetic Flares (MORYSEF): X-ray Flare Related Phenomena and Multi-epoch Behavior. ApJ, 976, 195</li>
   <li>Bergner, J. B., et al. (incl. <b>Law, C. J.</b>), 2024. JWST ice band profiles reveal mixed ice compositions in the HH 48 NE disk. ApJ, 975, 166</li>
   <li>Booth, A. S., et al. (incl. <b>Law, C. J.</b>), 2024. Measuring the 34S and 33S isotopic ratios of volatile sulfur during planet formation. AJ, 975, 72</li>
