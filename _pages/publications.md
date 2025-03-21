@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 73 publications (refereed or under review), including 15 as first author and 7 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 75 publications (refereed or under review), including 15 as first author and 7 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y, et al. 2025. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk”, subm.</li>
+  <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y, et al. 2025. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk”, in press</li>
   <li><b>Law, C. J.</b>, Zhang Q., Frommer A., et al. 2025. A Wideband Chemical Survey of Massive Young Stellar Objects at Subarcsecond Resolution with the Submillimeter Array, ApJS, 276, 54</li>
   <li><b>Law, C. J.</b>, Benisty M., Facchini S., et al. 2024. Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk, ApJ, 964, 190.</li>
   <li><b>Law, C. J.</b>, Alarcón, F., Cleeves, L. I., et al., 2023. C I Traces the Disk Atmosphere in the IM Lup Protoplanetary Disk, ApJL, 959, L27</li>
@@ -39,6 +39,8 @@ Author of 73 publications (refereed or under review), including 15 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
+  <li>Booth, A. S., Wölfer, L., Temmink, M., Evans, L., <b>Law, C. J.</b>, et al. 2025. Ice sublimation in the dynamic HD 100453 disk reveals a rich reservoir of inherited complex organics, ApJL, subm.</li>
+  <li>Rampinelli, L., et al. (incl. <b>Law, C. J.</b>), 2025. Radial variations in nitrogen, carbon, and hydrogen fractionation in the PDS 70 planet-hosting disk, A&A, subm.</li>
   <li>Armitage, T., et al. (incl. <b>Law, C. J.</b>), 2025. Tracing Pebble Drift History in Two Protoplanetary Disks with CO Enhancement, ApJ, subm.</li>
   <li>Romero-Mirza, C. E., et al. (incl. <b>Law, C. J.</b>), 2025. Irradiated Chemistry in the GM Aur Transition Disk Revealed by JWST MIRI, ApJ, subm.</li>
   <li>Boyden, R. D., Emig, K. L., Ballering, N. P., <b>Law, C. J.</b>, et al., 2025. Discovery of Radio Recombination Line Emission from Proplyds in the Orion Nebula Cluster, ApJ, subm.</li>
