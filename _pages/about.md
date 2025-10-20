@@ -12,7 +12,7 @@ Astronomer at the University of Virginia
 ------
 I am a <a href="https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2023-nhfp-fellows#section-66b98cc2-bcba-4c71-92d0-217e6ef0e32f" style="text-decoration: none">NASA Hubble Fellowship Program Sagan Fellow</a> at the University of Virginia and a member of the <a href="https://cosmicorigins.space/vico" style="text-decoration: none">Virginia Initiative on Cosmic Origins</a> consortium. Previously, I completed my PhD in astronomy and astrophysics at Harvard University and the Center for Astrophysics | Harvard & Smithsonian, working with <a href="https://pweb.cfa.harvard.edu/people/karin-oberg" style="text-decoration: none">Karin Öberg</a> and <a href="https://pweb.cfa.harvard.edu/people/qizhou-zhang" style="text-decoration: none">Qizhou Zhang</a>. My research focuses on the chemistry of star and planet formation. I use high spatial resolution observations from (sub-)millimeter interferometers such as the Atacama Large Millimeter/submillimeter Array (ALMA), Submillimeter Array (SMA), and Very Large Array (VLA) to characterize the chemical environments in which young planets are forming.
 
-Some of my research highlights include:
+<!---Some of my research highlights include:
 
 <ul>
   <li>Identified several chemical signatures of a giant protoplanet in the HD 169142 disk, including the 1st detection of SiS in a planet-forming disk (see ALMA press release <a href="https://www.almaobservatory.org/en/press-releases/a-surprise-chemical-find-by-alma-may-help-detect-and-confirm-protoplanets/" style="text-decoration: none">here</a>) </li>
@@ -21,7 +21,7 @@ Some of my research highlights include:
   <li>Mapped complex organic molecules in the massive star-forming region G10.6-0.4 at subarcsecond resolution</li>
   <li>Created a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it <a href="http://www.physics.purdue.edu/kaboom/n132d-anim.mp4" style="text-decoration: none">here</a>, or in a VR environment <a href="https://aas237-aas.ipostersessions.com/Default.aspx?s=AE-C0-00-48-D1-0F-E4-BE-FD-08-90-89-FD-CB-AC-DC" style="text-decoration: none">here</a>)</li>
 </ul> 
-
+--->
 
 Contact Info
 ------
