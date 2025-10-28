@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 75 publications (refereed or under review), including 15 as first author and 7 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 83 publications (refereed or under review), including 16 as first author and 9 as second or third author, which are shown below. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y, et al. 2025. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk”, in press</li>
+  <li><b>Law, C. J.</b>, Le Gal, R., Öberg, K. I., et al. 2025. A Submillimeter Survey of CS Excitation in Protoplanetary Disks: Evidence of X-ray-Driven Sulfur Chemistry, ApJ, subm.</li>
+  <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y., et al. 2025. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk, ApJ, 985, 84</li>
   <li><b>Law, C. J.</b>, Zhang Q., Frommer A., et al. 2025. A Wideband Chemical Survey of Massive Young Stellar Objects at Subarcsecond Resolution with the Submillimeter Array, ApJS, 276, 54</li>
   <li><b>Law, C. J.</b>, Benisty M., Facchini S., et al. 2024. Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk, ApJ, 964, 190.</li>
   <li><b>Law, C. J.</b>, Alarcón, F., Cleeves, L. I., et al., 2023. C I Traces the Disk Atmosphere in the IM Lup Protoplanetary Disk, ApJL, 959, L27</li>
@@ -28,6 +29,8 @@ Author of 75 publications (refereed or under review), including 15 as first auth
 
 <b>Second or Third Author</b>
 <ol>
+    <li>Gresko, K., <b>Law, C. J.</b>, et al., 2025. SMA Observations Reveal Abundant HNC Chemistry in Transition Disks, ApJ, subm.</li>
+    <li>Maher, T., <b>Law, C. J.</b>, et al., 2025. Radially-Extended C I Emission in the IM Lup Protoplanetary Disk Uncovered with Matched Filtering, RNAAS, 9, 205</li>
     <li>Yoshida, T., Nomura, H., <b>Law, C. J.</b>, et al., 2024. Outflow Driven by a Protoplanet Embedded in the TW Hya Disk, ApJL, 971, L15</li>
     <li>Booth, A. S., <b>Law, C. J.</b>, Temmink, M., et al., 2023. Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD 169142 disk, A&A, 678, 146</li>
   <li>Sturm, J. A., McClure M. K., <b>Law, C. J.</b>, et al., 2023. Modeling the edge-on HH 48 NE protoplanetary disk I. Geometry and stellar parameters, A&A, 677, 17</li>
@@ -36,7 +39,8 @@ Author of 75 publications (refereed or under review), including 15 as first auth
   <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, 257, 5</li>
   <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C<sub>2</sub>H, and H<sub>2</sub>CO, ApJS, 257, 6</li>
 </ol>    
-    
+
+<!---
 <b>Other Co-Authored Publications</b>
 <ol>
   <li>Booth, A. S., Wölfer, L., Temmink, M., Evans, L., <b>Law, C. J.</b>, et al. 2025. Ice sublimation in the dynamic HD 100453 disk reveals a rich reservoir of inherited complex organics, ApJL, subm.</li>
@@ -93,6 +97,8 @@ Author of 75 publications (refereed or under review), including 15 as first auth
   <li>Sano, H., et al. (incl. <b>Law, C. J.</b>). 2020, ALMA CO Observations of Gamma-Ray Supernova Remnant N132D in the Large Magellanic Cloud: Possible Evidence for Shocked Molecular Clouds Illuminated by Cosmic-Ray Protons, ApJ, 902, 53</li>
   <li>Le Gal, R., et al. (incl. <b>Law, C. J.</b>). 2020, A 3mm chemical exploration of small organics in Class I YSOs ApJ, 898, 131</li>
 </ol>
+
+--->
 
 <!---{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
