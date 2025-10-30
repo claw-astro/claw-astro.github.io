@@ -86,7 +86,7 @@ author:
   location         : "University of Virginia"
   employer         : "Charlottesville, VA, USA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=GqG5GiIAAAAJ"#"http://yourfullgooglescholarurl.com"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=GqG5GiIAAAAJ"#"http://yourfullgooglescholarurl.com"
   email            : "cjl8rd@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
