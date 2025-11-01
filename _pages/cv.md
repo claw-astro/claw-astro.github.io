@@ -11,6 +11,7 @@ redirect_from:
 
 A full PDF version can be found <a href="https://claw-astro.github.io/files/Law_CV_Full.pdf" style="text-decoration: none">here</a>.
 
+<!-- 
 
 Professional Appointments
 ======
@@ -114,3 +115,5 @@ Outreach
 * <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration:none">AAS Astronomy Ambassador</a> (2019 - Present)
 * Contributing Author, <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Astrobites</a> (2018 - 2020)
 * Volunteer, CfA Observatory Nights (2017 - 2020)
+
+-->
