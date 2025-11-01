@@ -58,11 +58,7 @@ First coauthor publications and those with significant contributions are shown b
    <li><b>Law, C. J.</b>, Zhang, Q., Ricci, L., et al., 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
    <li><b>Law, C. J.</b>, Öberg, K. I., Bergner, et al., D. 2018, Carbon Chain Molecules Toward Embedded Low-Mass Protostars, ApJ, 863, 88</li>
 </ol>    
-    
 
-<!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 Selected Talks
 ======
@@ -81,9 +77,6 @@ Selected Talks
 * <b>Invited</b>, ALMA Community Day, MIT, April 2019
 * <b>Invited</b>, SMA Advisory Committee Meeting, CfA, July 2018
 
-<!--   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>  -->
   
 Teaching
 ======
@@ -95,9 +88,6 @@ Teaching
 * TA, Stellar and Planetary Astronomy (AY16). Harvard University. Spring 2020.
 * TA, Physics I (Lab): Mechanics, Elasticity, Fluids, and Diffusion (PHYS E-1axl). Harvard Extension School. Fall 2017.
   
-<!--   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 Service and Professional Activities
 ======
