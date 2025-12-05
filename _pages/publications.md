@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 83 publications (refereed or under review), including 16 as first author and 9 as second or third author, which are shown below. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 86 publications (published or under review), including 16 as first author and 10 as second or third author, which are shown below. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Le Gal, R., Öberg, K. I., et al. 2025. A Submillimeter Survey of CS Excitation in Protoplanetary Disks: Evidence of X-ray-Driven Sulfur Chemistry, ApJ, subm.</li>
+  <li><b>Law, C. J.</b>, Le Gal, R., Öberg, K. I., et al. 2025. A Submillimeter Survey of CS Excitation in Protoplanetary Disks: Evidence of X-ray-Driven Sulfur Chemistry, ApJ, in press</li>
   <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y., et al. 2025. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk, ApJ, 985, 84</li>
   <li><b>Law, C. J.</b>, Zhang Q., Frommer A., et al. 2025. A Wideband Chemical Survey of Massive Young Stellar Objects at Subarcsecond Resolution with the Submillimeter Array, ApJS, 276, 54</li>
   <li><b>Law, C. J.</b>, Benisty M., Facchini S., et al. 2024. Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk, ApJ, 964, 190.</li>
@@ -29,6 +29,7 @@ Author of 83 publications (refereed or under review), including 16 as first auth
 
 <b>Second or Third Author</b>
 <ol>
+    <li>Parmar, S. & <b>Law, C. J.</b>, et al., 2025. An SMA Survey of UV-driven Chemical Tracers in Transition Disks, RNAAS, subm.</li>
     <li>Gresko, K., <b>Law, C. J.</b>, et al., 2025. SMA Observations Reveal Abundant HNC Chemistry in Transition Disks, ApJ, subm.</li>
     <li>Maher, T., <b>Law, C. J.</b>, et al., 2025. Radially-Extended C I Emission in the IM Lup Protoplanetary Disk Uncovered with Matched Filtering, RNAAS, 9, 205</li>
     <li>Yoshida, T., Nomura, H., <b>Law, C. J.</b>, et al., 2024. Outflow Driven by a Protoplanet Embedded in the TW Hya Disk, ApJL, 971, L15</li>
