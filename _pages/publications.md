@@ -30,7 +30,7 @@ Author of 86 publications (published or under review), including 16 as first aut
 <b>Second or Third Author</b>
 <ol>
     <li>Gresko, K., <b>Law, C. J.</b>, et al., 2025. SMA Observations Reveal Abundant HNC Chemistry in Transition Disks, ApJ, subm.</li>
-    <li>Parmar, S. & <b>Law, C. J.</b>, et al., 2025. An SMA Survey of UV-driven Chemical Tracers in Transition Disks, RNAAS, 9, 330/li>
+    <li>Parmar, S. & <b>Law, C. J.</b>, et al., 2025. An SMA Survey of UV-driven Chemical Tracers in Transition Disks, RNAAS, 9, 330</li>
     <li>Maher, T., <b>Law, C. J.</b>, et al., 2025. Radially-Extended C I Emission in the IM Lup Protoplanetary Disk Uncovered with Matched Filtering, RNAAS, 9, 205</li>
     <li>Yoshida, T., Nomura, H., <b>Law, C. J.</b>, et al., 2024. Outflow Driven by a Protoplanet Embedded in the TW Hya Disk, ApJL, 971, L15</li>
     <li>Booth, A. S., <b>Law, C. J.</b>, Temmink, M., et al., 2023. Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD 169142 disk, A&A, 678, 146</li>
