@@ -9,7 +9,7 @@ Author of 92 publications (published or under review), including 16 as first aut
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Le Gal, R., Öberg, K. I., et al. 2025. A Submillimeter Survey of CS Excitation in Protoplanetary Disks: Evidence of X-ray-Driven Sulfur Chemistry, ApJ, 997, 91</li>
+  <li><b>Law, C. J.</b>, Le Gal, R., Öberg, K. I., et al. 2026. A Submillimeter Survey of CS Excitation in Protoplanetary Disks: Evidence of X-ray-Driven Sulfur Chemistry, ApJ, 997, 91</li>
   <li><b>Law, C. J.</b>, Le Gal, R., Yamato, Y., et al. 2025. A Multi-line Analysis of the Distribution and Excitation of CS and H2CS in the HD 163296 Disk, ApJ, 985, 84</li>
   <li><b>Law, C. J.</b>, Zhang Q., Frommer A., et al. 2025. A Wideband Chemical Survey of Massive Young Stellar Objects at Subarcsecond Resolution with the Submillimeter Array, ApJS, 276, 54</li>
   <li><b>Law, C. J.</b>, Benisty M., Facchini S., et al. 2024. Mapping the Vertical Gas Structure of the Planet-hosting PDS 70 Disk, ApJ, 964, 190.</li>
