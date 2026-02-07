@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 86 publications (published or under review), including 16 as first author and 10 as second or third author, which are shown below. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 92 publications (published or under review), including 16 as first author and 12 as second or third author, which are shown below. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
@@ -29,7 +29,9 @@ Author of 86 publications (published or under review), including 16 as first aut
 
 <b>Second or Third Author</b>
 <ol>
-    <li>Gresko, K., <b>Law, C. J.</b>, et al., 2025. SMA Observations Reveal Abundant HNC Chemistry in Transition Disks, ApJ, subm.</li>
+    <li>Wampler, S. C., <b>Law, C. J.</b>, Cleeves, L. I., et al., 2026. DECO. Shock Chemistry in the Dynamic DG Tau A Disk, A&A, subm.</li>
+    <li>Long, D. E., Cleeves, L. I., <b>Law, C. J.</b>, et al., 2026. Mapping Molecular Ion Distributions in a Diverse Sample of Protoplanetary Disks, ApJ, subm.</li>
+    <li>Gresko, K., <b>Law, C. J.</b>, et al., 2026. SMA Observations Reveal Abundant HNC Chemistry in Transition Disks, ApJ, subm.</li>
     <li>Parmar, S. & <b>Law, C. J.</b>, et al., 2025. An SMA Survey of UV-driven Chemical Tracers in Transition Disks, RNAAS, 9, 330</li>
     <li>Maher, T., <b>Law, C. J.</b>, et al., 2025. Radially-Extended C I Emission in the IM Lup Protoplanetary Disk Uncovered with Matched Filtering, RNAAS, 9, 205</li>
     <li>Yoshida, T., Nomura, H., <b>Law, C. J.</b>, et al., 2024. Outflow Driven by a Protoplanet Embedded in the TW Hya Disk, ApJL, 971, L15</li>
