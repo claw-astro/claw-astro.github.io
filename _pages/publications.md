@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 92 publications (published or under review), including 16 as first author and 12 as second or third author, which are shown below. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 94 publications (published or under review), including 16 as first author and 12 as second or third author, which are shown below. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
