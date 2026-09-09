@@ -1,0 +1,53 @@
+# Each entry becomes one "big question" block on the homepage and
+# the /research/ page. "icon" picks which small graphic renders next
+# to it — see _includes/icon.html for the available keys.
+- tag: "Disk structure"
+  icon: "disk-structure"
+  question: "What determines which planets a disk can build?"
+  body: >-
+    A disk’s temperature, density, and composition shape the types 
+    of planets that form, from atmospheres to architectures. We map
+    these properties across disks and how
+    they influence planetary outcomes.
+
+- tag: "Disks to exoplanets"
+  icon: "disks-exoplanets"
+  question: "How do disks become the exoplanets we detect?"
+  body: >-
+    We observe disks and exoplanets at very different stages of their lives.
+    We work to bridge that gap by connecting the conditions in young disks to 
+    the wider exoplanet populations and our own Solar System.
+
+- tag: "Multi-wavelength view"
+  icon: "wavelengths"
+  question: "What does each wavelength reveal?"
+  body: >-
+    Radio interferometers, like ALMA, VLA, and SMA, trace the bulk gas and
+    dust in the outer disk. JWST probes the hot inner regions, while optical
+    facilities, such as the LBT, provide complementary views.
+
+
+- tag: "Astrochemistry"
+  icon: "astrochemistry"
+  question: "Where does chemical complexity come from?"
+  body: >-
+    We study how molecules form, survive, and evolve across the
+    interstellar medium and into protoplanetary disks — tracing a
+    chemical thread from diffuse gas to the material that planets
+    are built from.
+
+- tag: "Disk–planet interactions"
+  icon: "disk-planet"
+  question: "Can we see planet formation in real time?"
+  body: >-
+    A forming planet leaves marks on its disk: carved gaps, disturbed
+    gas kinematics, excess dust and gas, and localized changes in chemistry.
+    We search for and characterize these signatures directly in disks.
+
+- tag: "Star-forming regions"
+  icon: "star-forming"
+  question: "How much chemistry do disks inherit?"
+  body: >-
+    The chemistry of star-forming regions begins in their natal molecular
+    clouds. We study what material is inherited from these clouds
+    and how this shapes the evolution of protostars, disks, and planets.

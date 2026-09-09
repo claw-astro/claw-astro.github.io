@@ -1,0 +1,26 @@
+# This is the ONLY file you need to touch to add a new publication.
+# Add a link per entry — a NASA ADS abstract-page URL is the most
+# reliable (richest metadata), but a bare ADS bibcode, an arXiv URL
+# or ID, or a bare DOI also work, since ADS can resolve all of those.
+# A publisher/journal URL (e.g. a Nature.com or ApJ page) does NOT
+# work — there's no reliable way to scrape those, so route through
+# ADS/arXiv/DOI instead, which almost every astro paper has.
+#
+# After adding a link here, run:
+#   python3 scripts/fetch_publications.py
+# (or trigger the "Update publications" GitHub Action manually) to
+# regenerate _data/publications.yml with the parsed title, authors,
+# journal, and year — with group members auto-bolded per
+# _data/roster.yml.
+#
+# "highlight" is an optional manual override (defaults to true only
+# when the FIRST author matches the roster, i.e. a first-author paper
+# from the group — otherwise false). "link" is an optional override
+# if you'd rather link to the arXiv PDF or a press release instead of
+# the ADS abstract page; omit it to use the ADS abstract page link.
+
+- url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260830489F/abstract"
+
+# Example of a bare DOI and a bare bibcode, both also valid:
+# - url: "10.3847/1538-4357/example"
+# - url: "2025AJ....789...12A"

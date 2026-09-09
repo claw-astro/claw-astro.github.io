@@ -1,0 +1,8 @@
+<nav>
+  <a href="{{ '/' | relative_url }}" class="brand">{{ site.group_name }}</a>
+  <div class="navlinks">
+    {% for item in site.data.navigation %}
+      <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a>
+    {% endfor %}
+  </div>
+</nav>

@@ -1,0 +1,104 @@
+# One entry per group member, in any order — the People page sorts
+# automatically by role (PI, Postdoc, PhD Student, Undergraduate,
+# Alumni), and every card renders at the same size regardless of role.
+#
+# Fields:
+#   name, role, focus  — focus is a short one-line tag under the role
+#   bio                — 3-5 sentences: background + current work
+#   avatar             — optional path under /assets/images/people/.
+#                         Leave blank and everyone gets the same gold
+#                         default-avatar.svg placeholder automatically
+#                         (see the PI entry for how to point at a real
+#                         photo instead — prof-example.svg is one).
+#   cv                 — optional link to a CV (used for the PI)
+#   links              — optional list of {label, url} pairs, e.g.
+#                         Website, LinkedIn, GitHub, Google Scholar.
+#                         Entirely optional per person — leave as `[]`
+#                         for no links at all, or list just one or two.
+
+- name: "Prof. Charles Law"
+  role: "PI"
+  focus: "Disk structure & planet formation"
+  bio: >-
+    Charles joined the faculty at the University of Minnesota
+    in 2026. His research focuses on the physics and chemistry of
+    star and planet formation, combining millimeter and infrared observations
+    with chemical modeling to understand how planets assemble and acquire their properties.
+    Previously, he was a NASA Hubble Fellowship Program
+    Sagan Fellow at the University of Virginia and completed his PhD at
+    Harvard University and the Center for Astrophysics | Harvard & Smithsonian.
+#Charles is especially interested in what resolved disk imaging can teach us
+#    about planet formation still in progress.
+  avatar: "/assets/images/people/headshot_charles_law.png"
+  cv: "/assets/cv/Charles-Law-CV.pdf"
+  links:
+    - label: "Website"
+      url: "https://cse.umn.edu/mifa/charles-law"
+
+#- name: "[Postdoc Name]"
+#  role: "Postdoc"
+#  focus: "Exoplanet atmospheres"
+#  bio: >-
+#    [Postdoc Name] joined the group in [Year] as a [Fellowship Name]
+#    Fellow. Their work focuses on connecting the composition of
+#    protoplanetary disks to the atmospheres later measured in exoplanets,
+#    using transit and eclipse spectroscopy alongside disk chemistry
+#    models. They completed their PhD at [Graduate Institution], where
+#    they studied atmospheric retrievals for directly imaged planets.
+#    Outside of research, they are interested in [interest].
+#  avatar: ""
+#  links:
+#    - label: "Website"
+#      url: "#"
+#    - label: "LinkedIn"
+#      url: "#"
+
+- name: "Alexis Riggs"
+  role: "PhD Student"
+  focus: "Disk chemistry, millimeter imaging"
+  bio: >-
+    Alexis is a PhD student working on high-resolution ALMA imaging
+    of nearby protoplanetary disks. She is a member of the CHEER ALMA Large Program,
+    an international collaboration investigating disks around Herbig stars. Her current
+    research focuses on sulfur chemistry in these disks. Before graduate school, Alexis
+    earned a bachelor’s degree in physics from Knox College. 
+#    current project searches for kinematic signatures of embedded
+#    planets in disk gas, building on coursework in radio interferometry
+#    and radiative transfer. Before graduate school, they completed their
+#    undergraduate degree in physics at Knox College.
+#    where they worked on [prior research topic].
+  avatar: ""
+  links:
+#    - label: "Website"
+#      url: "#"
+#    - label: "LinkedIn"
+#      url: "#"
+#    - label: "GitHub"
+#      url: "#"
+
+#- name: "[Student Name]"
+#  role: "PhD Student"
+#  focus: "Astrochemistry"
+#  bio: >-
+#    [Student Name] studies gas-phase and ice chemistry in protoplanetary
+#    disks, combining astrochemical network modeling with molecular line
+#    observations from ALMA and the SMA. They are particularly interested
+#    in how chemical complexity built up in star-forming regions carries
+#    through into disks and, eventually, into planets. They joined the
+#    group in [Year] after completing a master's degree at [Institution].
+#  avatar: ""
+#  links:
+#    - label: "GitHub"
+#      url: "#"
+
+#- name: "[Student Name]"
+#  role: "Undergraduate"
+#  focus: "Disk–planet interactions"
+#  bio: >-
+#    [Student Name] is an undergraduate researcher studying gap and ring
+#    structures in ALMA disk images, looking for signatures consistent
+#    with embedded forming planets. They joined the group through
+#    [UROP / REU / directed research], and plan to apply to graduate
+#    programs in astrophysics.
+#  avatar: ""
+#  links: []

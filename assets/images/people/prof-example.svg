@@ -1,0 +1,9 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#1B2440"/>
+  <circle cx="200" cy="200" r="200" fill="#141B2E"/>
+  <!-- abstract placeholder silhouette, not a real person -->
+  <circle cx="200" cy="165" r="72" fill="#28324A"/>
+  <path d="M 70 400 Q 70 260 200 260 Q 330 260 330 400 Z" fill="#28324A"/>
+  <circle cx="200" cy="165" r="72" fill="none" stroke="#D9A441" stroke-width="2" opacity="0.55"/>
+  <path d="M 70 400 Q 70 260 200 260 Q 330 260 330 400" fill="none" stroke="#D9A441" stroke-width="2" opacity="0.55"/>
+</svg>

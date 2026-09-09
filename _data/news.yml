@@ -1,0 +1,23 @@
+# Newest first. "link" is optional — leave it blank ("") for an
+# internal note with nowhere to send people, or point it at a press
+# release, arXiv preprint, department announcement, etc. A few
+# different kinds are shown below as examples.
+#- date: "September 2026"
+#  title: "Press: University News covers our disk-gap survey"
+#  link: "https://twin-cities.umn.edu/news/example-disk-survey-coverage"
+
+#- date: "August 2026"
+#  title: "New ALMA survey resolves gaps in 40 nearby disks"
+#  link: "https://arxiv.org/abs/2608.00000"
+
+#- date: "July 2026"
+#  title: "Group awarded a 3-year NSF grant for disk chemistry surveys"
+#  link: "https://cse.umn.edu/mifa/news/example-grant-announcement"
+
+#- date: "June 2026"
+#  title: "[Student Name] awarded NSF Graduate Research Fellowship"
+#  link: ""
+
+- date: "July 2026"
+  title: "Welcome to PhD student Alexis Riggs!"
+  link: ""

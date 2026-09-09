@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<div class="page-wrap">
+  <div class="page-head">
+    {% if page.eyebrow %}<div class="section-eyebrow">{{ page.eyebrow }}</div>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="page-sub">{{ page.subtitle }}</p>{% endif %}
+  </div>
+  {% if content and content != "" %}<div class="page-body prose">{{ content }}</div>{% endif %}
+
+  {% assign pubs = site.data.publications | sort: "year" | reverse %}
+  {% assign years = pubs | map: "year" | uniq %}
+  {% for year in years %}
+    {% assign year_pubs = pubs | where: "year", year %}
+    <div class="pub-year-group">
+      <div class="pub-year">{{ year }}</div>
+      <div class="pub-list">
+        {% for pub in year_pubs %}
+        <div class="pub-item{% if pub.highlight %} pub-highlight{% endif %}">
+          {% if pub.link and pub.link != "" %}
+            <h4><a href="{{ pub.link }}">{{ pub.title }}</a></h4>
+          {% else %}
+            <h4>{{ pub.title }}</h4>
+          {% endif %}
+          <div class="pub-meta">{{ pub.authors }} · <em>{{ pub.venue }}</em></div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

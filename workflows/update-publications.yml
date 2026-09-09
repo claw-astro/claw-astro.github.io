@@ -1,0 +1,51 @@
+name: Update publications
+
+# Runs the ADS fetch script and commits the regenerated
+# _data/publications.yml back to the repo. Triggers:
+#   - manually, via the "Run workflow" button under the Actions tab
+#   - automatically, whenever pub_sources.yml or _data/roster.yml change
+#   - on a weekly schedule, in case a paper's ADS record changes
+#     (e.g. moves from preprint to published)
+#
+# One-time setup: add your ADS API token as a repository secret named
+# ADS_API_TOKEN (Settings -> Secrets and variables -> Actions -> New
+# repository secret). Get a free token at
+# https://ui.adsabs.harvard.edu/user/settings/token
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "pub_sources.yml"
+      - "_data/roster.yml"
+  schedule:
+    - cron: "0 13 * * 1"  # every Monday
+
+permissions:
+  contents: write
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch publication metadata
+        env:
+          ADS_API_TOKEN: ${{ secrets.ADS_API_TOKEN }}
+        run: python3 scripts/fetch_publications.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _data/publications.yml
+          git diff --quiet --cached || git commit -m "Update publications from ADS"
+          git push

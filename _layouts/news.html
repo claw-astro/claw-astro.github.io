@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="page-wrap">
+  <div class="page-head">
+    {% if page.eyebrow %}<div class="section-eyebrow">{{ page.eyebrow }}</div>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="page-sub">{{ page.subtitle }}</p>{% endif %}
+  </div>
+  {% if content and content != "" %}<div class="page-body prose">{{ content }}</div>{% endif %}
+
+  <div class="news-list">
+    {% for item in site.data.news %}
+    <div class="news-item">
+      <div class="news-date">{{ item.date }}</div>
+      {% if item.link and item.link != "" %}
+        <h4><a href="{{ item.link }}">{{ item.title }}</a></h4>
+      {% else %}
+        <h4>{{ item.title }}</h4>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>

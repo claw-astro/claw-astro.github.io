@@ -1,0 +1,30 @@
+# Used by scripts/fetch_publications.py to decide which authors on a
+# paper get bolded — a match only counts for years inside its active
+# range, so someone who graduated in 2026 stops being bolded on papers
+# published afterward, and someone who joined in 2024 isn't bolded on
+# older papers even if they're a coauthor.
+#
+# Matching is by last name + first initial, not a literal string
+# match — so "last: Ibarra, first_initial: T" matches "Ibarra, Tomás",
+# "Ibarra, T.", "Ibarra, Tomas" (accents are ignored on both sides),
+# and any other reasonable variation ADS might return. Use a fuller
+# first_initial (e.g. "To" instead of just "T") only if a single
+# initial would risk colliding with an unrelated coauthor who shares
+# the same surname and first letter.
+#
+# "end_year": leave blank/omit for someone still active — it's treated
+# as "no upper bound" rather than "never matches".
+#
+# Add a new entry here whenever someone joins; add an end_year when
+# they leave. This file is the single source of truth for "who counts
+# as group" for highlighting purposes — it's independent of
+# _data/people.yml (which is about who's on the People page right
+# now, not full historical authorship).
+
+- last: "Law"
+  first_initial: "C"
+  start_year: 2026
+
+- last: "Riggs"
+  first_initial: "A"
+  start_year: 2026

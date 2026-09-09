@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div class="page-wrap">
+  <div class="page-head">
+    {% if page.eyebrow %}<div class="section-eyebrow">{{ page.eyebrow }}</div>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="page-sub">{{ page.subtitle }}</p>{% endif %}
+  </div>
+  {% if content and content != "" %}<div class="page-body prose">{{ content }}</div>{% endif %}
+
+  {% assign role_order = "PI,Postdoc,PhD Student,Undergraduate,Alumni" | split: "," %}
+  {% assign ordered = "" | split: "" %}
+  {% for role in role_order %}
+    {% assign matches = site.data.people | where: "role", role %}
+    {% assign ordered = ordered | concat: matches %}
+  {% endfor %}
+
+  <div class="people-full-grid">
+    {% for person in ordered %}
+    <div class="person-card">
+      {% if person.avatar and person.avatar != "" %}
+        <img class="avatar" src="{{ person.avatar | relative_url }}" alt="{{ person.name }}">
+      {% else %}
+        <img class="avatar" src="{{ '/assets/images/people/default-avatar.svg' | relative_url }}" alt="{{ person.name }}">
+      {% endif %}
+      <div class="person-card-body">
+        <h3>{{ person.name }}</h3>
+        <div class="person-role">{{ person.role }}{% if person.focus %} · {{ person.focus }}{% endif %}</div>
+        {% if person.bio and person.bio != "" %}<p class="person-bio">{{ person.bio }}</p>{% endif %}
+        <div class="person-links">
+          {% if person.cv and person.cv != "" %}<a href="{{ person.cv }}">CV</a>{% endif %}
+          {% for link in person.links %}
+            {% if link.url and link.url != "" %}<a href="{{ link.url }}">{{ link.label }}</a>{% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    {% assign remainder = ordered.size | modulo: 2 %}
+    {% if remainder == 1 %}
+    <div class="person-card person-card-filler" aria-hidden="true"></div>
+    {% endif %}
+  </div>
+</div>
