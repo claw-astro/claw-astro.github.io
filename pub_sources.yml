@@ -19,6 +19,7 @@
 # if you'd rather link to the arXiv PDF or a press release instead of
 # the ADS abstract page; omit it to use the ADS abstract page link.
 
+- url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260909290L/abstract"
 - url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260830489F/abstract"
 
 # Example of a bare DOI and a bare bibcode, both also valid:

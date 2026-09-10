@@ -10,6 +10,12 @@
 # highlight.
 
 - year: 2026
+  title: 'The ALMA View of the Edge-on Gomez''s Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation'
+  authors: <strong>Charles J. Law</strong>, Jensen Lawrence, Richard Teague, Zhe-Yu Daniel Lin, Romane Le Gal, Kristina Monsch, Gordian Edenhofer, Hans Baehr, Edwin A. Bergin, L. Ilsedore Cleeves, et al.
+  venue: arXiv e-prints
+  link: https://ui.adsabs.harvard.edu/abs/2026arXiv260909290L/abstract
+  highlight: true
+- year: 2026
   title: 'ALMA Observations of DEM L241/LMC P3 in the Large Magellanic Cloud: Evidence for the Formation of Cool Molecular Jets Driven by a Microquasar'
   authors: Yasuo Fukui, R. Bhuvana G., Hidetoshi Sano, Kisetsu Tsuge, Rami Z. E. Alsaberi, Rin Yamada, Yuya Asano, Aya Bamba, Miroslav Filipovic, <strong>Charles Law</strong>, et al.
   venue: arXiv e-prints
