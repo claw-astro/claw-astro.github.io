@@ -10,10 +10,16 @@
 # highlight.
 
 - year: 2026
-  title: 'The ALMA View of the Edge-on Gomez''s Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation'
-  authors: <strong>Charles J. Law</strong>, Jensen Lawrence, Richard Teague, Zhe-Yu Daniel Lin, Romane Le Gal, Kristina Monsch, Gordian Edenhofer, Hans Baehr, Edwin A. Bergin, L. Ilsedore Cleeves, et al.
+  title: Mapping Molecular Ion Distributions in a Diverse Sample of Protoplanetary Disks
+  authors: Deryl E. Long, L. Ilsedore Cleeves, <strong>Charles J. Law</strong>, Fred C. Adams, Dana E. Anderson, Sean M. Andrews, Edwin A. Bergin, Jane Huang, A. Meredith Hughes, Chunhua Qi, et al.
   venue: arXiv e-prints
-  link: https://ui.adsabs.harvard.edu/abs/2026arXiv260909290L/abstract
+  link: https://ui.adsabs.harvard.edu/abs/2026arXiv260919313L/abstract
+  highlight: false
+- year: 2026
+  title: JWST/MIRI Imaging Search for Kinematically Detected Protoplanetary Candidates
+  authors: G. Cugno, M. Benisty, R. Teague, A. Boccaletti, L. Pueyo, M. Perrin, M. Mâlin, J. Girard, V. Christiaens, P. Patapis, et al. (incl. <strong>C. Law</strong>)
+  venue: arXiv e-prints
+  link: https://ui.adsabs.harvard.edu/abs/2026arXiv260913123C/abstract
   highlight: false
 - year: 2026
   title: 'ALMA Observations of DEM L241/LMC P3 in the Large Magellanic Cloud: Evidence for the Formation of Cool Molecular Jets Driven by a Microquasar'
@@ -21,3 +27,9 @@
   venue: arXiv e-prints
   link: https://ui.adsabs.harvard.edu/abs/2026arXiv260830489F/abstract
   highlight: false
+- year: 2026
+  title: 'The ALMA View of the Edge-on Gomez''s Hamburger System: A Highly-Dynamic, Asymmetric Protoplanetary Disk Reveals the Earliest Phases of Giant Planet Formation'
+  authors: <strong>Charles J. Law</strong>, Jensen Lawrence, Richard Teague, Zhe-Yu Daniel Lin, Romane Le Gal, Kristina Monsch, Gordian Edenhofer, Hans Baehr, Edwin A. Bergin, L. Ilsedore Cleeves, et al.
+  venue: arXiv e-prints
+  link: https://ui.adsabs.harvard.edu/abs/2026arXiv260909290L/abstract
+  highlight: true
