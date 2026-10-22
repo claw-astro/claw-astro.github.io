@@ -67,7 +67,7 @@
 #    and radiative transfer. Before graduate school, they completed their
 #    undergraduate degree in physics at Knox College.
 #    where they worked on [prior research topic].
-  avatar: ""
+  avatar: "/assets/images/people/headshot_alexis_riggs.png"
   links:
 #    - label: "Website"
 #      url: "#"
@@ -91,14 +91,11 @@
 #    - label: "GitHub"
 #      url: "#"
 
-#- name: "[Student Name]"
-#  role: "Undergraduate"
-#  focus: "Disk–planet interactions"
-#  bio: >-
-#    [Student Name] is an undergraduate researcher studying gap and ring
-#    structures in ALMA disk images, looking for signatures consistent
-#    with embedded forming planets. They joined the group through
-#    [UROP / REU / directed research], and plan to apply to graduate
-#    programs in astrophysics.
-#  avatar: ""
-#  links: []
+- name: "Alyss Jushka"
+  role: "Undergraduate"
+  focus: "Disk Winds"
+  bio: >-
+    Alyss is an undergraduate researcher studying molecular winds
+    in protoplanetary disks using high-resolution ALMA observations.
+  avatar: ""
+  links: []

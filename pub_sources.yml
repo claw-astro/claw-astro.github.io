@@ -19,6 +19,10 @@
 # if you'd rather link to the arXiv PDF or a press release instead of
 # the ADS abstract page; omit it to use the ADS abstract page link.
 
+- url: "https://ui.adsabs.harvard.edu/abs/2026arXiv261022055W/abstract"
+- url: "https://ui.adsabs.harvard.edu/abs/2026arXiv261021906Z/abstract"
+- url: "https://ui.adsabs.harvard.edu/abs/2026arXiv261019244G/abstract"
+- url: "https://ui.adsabs.harvard.edu/abs/2026arXiv261019228G/abstract"
 - url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260919313L/abstract"
 - url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260913123C/abstract"
 - url: "https://ui.adsabs.harvard.edu/abs/2026arXiv260830489F/abstract"

@@ -10,6 +10,30 @@
 # highlight.
 
 - year: 2026
+  title: Chemistry on solar system scales
+  authors: Catherine Walsh, Maria Drozdovskaya, Dmitry Semenov, Alice Booth, Margot Leemker, Eleonora Bianchi, Pooneh Nazari, Linda Podio, Claudio Codella, Giovanni Sabatini, et al. (incl. <strong>Charles Law</strong>)
+  venue: arXiv e-prints
+  link: https://ui.adsabs.harvard.edu/abs/2026arXiv261022055W/abstract
+  highlight: false
+- year: 2026
+  title: Planet formation on solar system scales
+  authors: Francesco Zagaria, Andrés F. Izquierdo, Jaehan Bae, Philippine Griveaud, Richard A. Booth, Pietro Curone, Anders Johansen, Stefano Facchini, Myriam Benisty, Tilman Birnstiel, et al. (incl. <strong>Charles Law</strong>)
+  venue: arXiv e-prints
+  link: https://ui.adsabs.harvard.edu/abs/2026arXiv261021906Z/abstract
+  highlight: false
+- year: 2026
+  title: Tracing Accretion and Inner-Disk Gas Evolution in the Orion Nebula via Br-alpha and CO
+  authors: Konstantin V. Getman, Maria Claudia Ramirez-Tannus, Jenny Frediani, Kevin L. Luhman, Eric D. Feigelson, Bayron Portilla-Revelo, Christian Rab, Valentin Brunn, Jan Forbrich, Thomas J. Haworth, et al. (incl. <strong>Charles J. Law</strong>)
+  venue: arXiv e-prints
+  link: https://ui.adsabs.harvard.edu/abs/2026arXiv261019244G/abstract
+  highlight: false
+- year: 2026
+  title: Chandra-JWST Probing the Effects of Moderate X-Ray Superflares on Protoplanetary Disks
+  authors: Konstantin V. Getman, Kevin L. Luhman, Bayron Portilla-Revelo, Christian Rab, Valentin Brunn, Eric D. Feigelson, Arjan Bik, Jan Forbrich, Jenny Frediani, Thomas J. Haworth, et al. (incl. <strong>Charles J. Law</strong>)
+  venue: arXiv e-prints
+  link: https://ui.adsabs.harvard.edu/abs/2026arXiv261019228G/abstract
+  highlight: false
+- year: 2026
   title: Mapping Molecular Ion Distributions in a Diverse Sample of Protoplanetary Disks
   authors: Deryl E. Long, L. Ilsedore Cleeves, <strong>Charles J. Law</strong>, Fred C. Adams, Dana E. Anderson, Sean M. Andrews, Edwin A. Bergin, Jane Huang, A. Meredith Hughes, Chunhua Qi, et al.
   venue: arXiv e-prints
@@ -32,4 +56,4 @@
   authors: <strong>Charles J. Law</strong>, Jensen Lawrence, Richard Teague, Zhe-Yu Daniel Lin, Romane Le Gal, Kristina Monsch, Gordian Edenhofer, Hans Baehr, Edwin A. Bergin, L. Ilsedore Cleeves, et al.
   venue: arXiv e-prints
   link: https://ui.adsabs.harvard.edu/abs/2026arXiv260909290L/abstract
-  highlight: false
+  highlight: true
